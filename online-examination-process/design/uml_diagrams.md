@@ -9,6 +9,8 @@ This document provides four comprehensive UML diagrams representing the structur
 
 The Use Case diagram below models the interactions between system actors (Student, Instructor, Proctor, Administrator) and the core capabilities within the Online Examination System boundary.
 
+![Use Case Diagram](./use_case_diagram.png)
+
 ```mermaid
 flowchart LR
     subgraph SystemBoundary ["Online Examination System"]
@@ -51,6 +53,8 @@ flowchart LR
 ## 2. Class Diagram
 
 The Class Diagram defines the object-oriented structure, domain models, entity relationships, attributes, and key methods.
+
+![Class Diagram](./class_diagram.png)
 
 ```mermaid
 classDiagram
@@ -145,6 +149,8 @@ classDiagram
 
 The Sequence Diagram details the real-time interaction flow between a Student, the Client Web App, the Examination Engine, Proctoring Service, and Database during an active assessment session.
 
+![Sequence Diagram](./sequence_diagram_take_exam.png)
+
 ```mermaid
 sequenceDiagram
     autonumber
@@ -189,6 +195,8 @@ sequenceDiagram
 ## 4. State / Activity Diagram
 
 The State Diagram illustrates the complete lifecycle states of an Examination within the system, from creation to final grading and archiving.
+
+![Activity Diagram](./activity_diagram_exam_workflow.png)
 
 ```mermaid
 stateDiagram-v2
