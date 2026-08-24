@@ -80,9 +80,9 @@ Commits must strictly follow the **Conventional Commits** standard:
 
 ## 🔗 Quick Links
 
-- 📋 [Requirements Document](file:///Users/sandeshchaudhary/Desktop/project%20structure%20github/online-examination-process/requirements/requirements_document.md)
-- 📐 [UML Diagrams](file:///Users/sandeshchaudhary/Desktop/project%20structure%20github/online-examination-process/design/uml_diagrams.md)
-- 🧪 [Test Cases & Traceability Matrix](file:///Users/sandeshchaudhary/Desktop/project%20structure%20github/online-examination-process/testing/test_cases_and_matrix.xlsx)
-- 📊 [Gantt Chart](file:///Users/sandeshchaudhary/Desktop/project%20structure%20github/online-examination-process/reports/gantt_chart.xlsx)
-- 🚀 [Product Backlog & Sprint Plan](file:///Users/sandeshchaudhary/Desktop/project%20structure%20github/online-examination-process/reports/product_backlog_and_sprint_plan.md)
-- 📝 [Final Report](file:///Users/sandeshchaudhary/Desktop/project%20structure%20github/online-examination-process/reports/final_report.md)
+- 📋 [Requirements Document](./requirements/requirements_document.md)
+- 📐 [UML Diagrams](./design/uml_diagrams.md)
+- 🧪 [Test Cases & Traceability Matrix](./testing/test_cases_and_matrix.xlsx)
+- 📊 [Gantt Chart](./reports/gantt_chart.xlsx)
+- 🚀 [Product Backlog & Sprint Plan](./reports/product_backlog_and_sprint_plan.md)
+- 📝 [Final Report](./reports/final_report.md)
